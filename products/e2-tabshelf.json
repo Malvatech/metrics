@@ -1,0 +1,19 @@
+{
+  "product": "E2 Tab Shelf",
+  "status": "in_costruzione",
+  "generated_at": "2026-09-28T10:11:21.533Z",
+  "sources": {
+    "polar": {
+      "available": true,
+      "products": 0,
+      "orders_total": 0,
+      "revenue_cents": 0,
+      "note": "no Polar product yet (created at the 19 Oct step)"
+    },
+    "chrome_web_store": {
+      "available": false,
+      "reason": "no API; read from Developer Dashboard (Mac) or Matteo's weekly note",
+      "item_id": null
+    }
+  }
+}
