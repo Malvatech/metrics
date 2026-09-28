@@ -1,14 +1,13 @@
 {
   "product": "E1 Full Clip for Notion",
   "status": "in_costruzione",
-  "generated_at": "2026-09-27T19:35:26.790Z",
+  "generated_at": "2026-09-28T09:50:20.696Z",
   "sources": {
     "polar": {
       "available": true,
-      "organization_id": null,
+      "organization_id": "9336cac1-7e21-4082-8351-b1bfef620d38",
       "notes": [
-        "organizations: http 403",
-        "products: http 200, 0 products"
+        "organizations: http 403"
       ],
       "metrics_http": 200,
       "totals_30d": {
