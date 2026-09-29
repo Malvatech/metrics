@@ -1,19 +1,22 @@
 {
   "product": "E2 Tab Shelf",
   "status": "in_costruzione",
-  "generated_at": "2026-09-28T10:11:21.533Z",
+  "generated_at": "2026-09-29T10:38:32.461Z",
   "sources": {
     "polar": {
       "available": true,
-      "products": 0,
+      "products": 1,
       "orders_total": 0,
       "revenue_cents": 0,
-      "note": "no Polar product yet (created at the 19 Oct step)"
+      "checkouts_total": 0
     },
     "chrome_web_store": {
       "available": false,
       "reason": "no API; read from Developer Dashboard (Mac) or Matteo's weekly note",
-      "item_id": null
+      "item_id": "ldpkaenpjfnhedfclbbbhhejpgmicomk",
+      "store_url": "https://chromewebstore.google.com/detail/ldpkaenpjfnhedfclbbbhhejpgmicomk",
+      "submitted_at": "2026-09-28",
+      "status": "pending_review"
     }
   }
 }
