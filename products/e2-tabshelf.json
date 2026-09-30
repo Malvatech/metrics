@@ -1,7 +1,7 @@
 {
   "product": "E2 Tab Shelf",
-  "status": "in_costruzione",
-  "generated_at": "2026-09-29T10:38:32.461Z",
+  "status": "pubblicato",
+  "generated_at": "2026-09-30T10:27:11.206Z",
   "sources": {
     "polar": {
       "available": true,
@@ -16,7 +16,8 @@
       "item_id": "ldpkaenpjfnhedfclbbbhhejpgmicomk",
       "store_url": "https://chromewebstore.google.com/detail/ldpkaenpjfnhedfclbbbhhejpgmicomk",
       "submitted_at": "2026-09-28",
-      "status": "pending_review"
+      "published_at": "2026-09-29",
+      "status": "published"
     }
   }
 }
