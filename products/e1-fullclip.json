@@ -1,7 +1,7 @@
 {
   "product": "E1 Full Clip for Notion",
   "status": "in_costruzione",
-  "generated_at": "2026-09-30T09:44:53.137Z",
+  "generated_at": "2026-10-01T10:11:13.498Z",
   "sources": {
     "polar": {
       "available": true,
@@ -18,8 +18,8 @@
         "committed_monthly_recurring_revenue": 0,
         "trial_committed_monthly_recurring_revenue": 0,
         "average_revenue_per_user": 0,
-        "checkouts": 0,
-        "succeeded_checkouts": 0,
+        "checkouts": 1,
+        "succeeded_checkouts": 1,
         "churned_subscriptions": 0,
         "churn_rate": 0,
         "seats_total": 0,
@@ -28,7 +28,7 @@
         "seat_customers": 0,
         "new_seat_customers": 0,
         "churned_seat_customers": 0,
-        "orders": 0,
+        "orders": 1,
         "revenue": 0,
         "net_revenue": 0,
         "cumulative_revenue": 0,
@@ -39,7 +39,7 @@
         "net_average_order_value": 0,
         "cost_per_user": 0,
         "active_user_by_event": 0,
-        "one_time_products": 0,
+        "one_time_products": 1,
         "one_time_products_revenue": 0,
         "one_time_products_net_revenue": 0,
         "new_subscriptions": 0,
@@ -59,7 +59,7 @@
         "canceled_subscriptions_other": 0,
         "annual_recurring_revenue": 0,
         "committed_annual_recurring_revenue": 0,
-        "checkouts_conversion": 0,
+        "checkouts_conversion": 1,
         "ltv": 0,
         "gross_margin": 0,
         "gross_margin_percentage": 0,
@@ -68,12 +68,12 @@
         "seat_utilization_rate": 0
       },
       "active_subscriptions": "http 403",
-      "orders_total": 0
+      "orders_total": 1
     },
     "cloudflare": {
       "available": true,
       "worker_7d": {
-        "requests": 649,
+        "requests": 798,
         "errors": 0
       },
       "errors": null
