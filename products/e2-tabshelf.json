@@ -1,14 +1,14 @@
 {
-  "product": "E2 Tab Shelf",
+  "product": "E2 TabSill",
   "status": "pubblicato",
-  "generated_at": "2026-09-30T10:27:11.206Z",
+  "generated_at": "2026-10-01T10:54:53.582Z",
   "sources": {
     "polar": {
       "available": true,
       "products": 1,
-      "orders_total": 0,
+      "orders_total": 1,
       "revenue_cents": 0,
-      "checkouts_total": 0
+      "checkouts_total": 2
     },
     "chrome_web_store": {
       "available": false,
