@@ -1,14 +1,14 @@
 {
   "product": "E2 TabSill",
   "status": "pubblicato",
-  "generated_at": "2026-10-14T09:28:38.914Z",
+  "generated_at": "2026-10-15T09:06:46.339Z",
   "sources": {
     "polar": {
       "available": true,
       "products": 1,
       "orders_total": 1,
       "revenue_cents": 0,
-      "checkouts_total": 4
+      "checkouts_total": 5
     },
     "chrome_web_store": {
       "available": false,
