@@ -1,7 +1,7 @@
 {
   "product": "E1 Full Clip for Notion",
   "status": "in_costruzione",
-  "generated_at": "2026-11-11T11:01:40.740Z",
+  "generated_at": "2026-11-12T11:17:40.348Z",
   "sources": {
     "polar": {
       "available": true,
@@ -73,7 +73,7 @@
     "cloudflare": {
       "available": true,
       "worker_7d": {
-        "requests": 110,
+        "requests": 70,
         "errors": 0
       },
       "errors": null
